@@ -34,5 +34,5 @@ end
 
 end 
 
-puts speak_to_grandma('I LOVE YOU GRANDMA!', 'ALEX')
+puts speak_to_grandma('I LOVE YOU GRANDMA!', 'alex')
 # I LOVE YOU TOO ALEX!
